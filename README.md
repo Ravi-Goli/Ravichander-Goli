@@ -53,7 +53,7 @@ Designed a **billing microservice architecture** fully on AWS with event-driven 
 - Containerized with **Docker**, deployable via GitHub Actions
 
 🔗 Repo (Public): *(Add link when ready)*  
-`https://github.com/ravichander-goli/aws-billing-microservices` *(placeholder)*
+`[https://github.com/ravichander-goli/aws-billing-microservices](https://github.com/Ravi-Goli/aws-billing-microservices)` *(placeholder)*
 
 ---
 
