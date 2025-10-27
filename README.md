@@ -52,9 +52,9 @@ Designed a **billing microservice architecture** fully on AWS with event-driven 
 - Used **SNS + SQS** for asynchronous event processing
 - Containerized with **Docker**, deployable via GitHub Actions
 
-🔗 Repo (Public): *(Add link when ready)*  
+🔗 Repo (Public):  
 `[🔗 Repo (Public): [AWS Billing Microservices](https://github.com/Ravi-Goli/aws-billing-microservices)
-)` *(placeholder)*
+]` 
 
 ---
 
