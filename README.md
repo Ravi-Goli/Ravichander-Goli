@@ -38,7 +38,7 @@ Contributed to **modular front-end components**, backend API development, and **
 - Integrated **Kafka** for event streaming and state synchronization.
 - Enhanced **performance** and reduced data load processing times.
 
-🔗 *(Internal project - No public repo for NDA reasons)*
+🔗 *(Internal project)*
 
 ---
 
@@ -53,8 +53,7 @@ Designed a **billing microservice architecture** fully on AWS with event-driven 
 - Containerized with **Docker**, deployable via GitHub Actions
 
 🔗 Repo (Public):  
-`[🔗 Repo (Public): [AWS Billing Microservices](https://github.com/Ravi-Goli/aws-billing-microservices)
-]` 
+`[AWS Billing Microservices](https://github.com/Ravi-Goli/aws-billing-microservices)` 
 
 ---
 
