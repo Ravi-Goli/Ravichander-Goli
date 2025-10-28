@@ -38,19 +38,23 @@ Contributed to **modular front-end components**, backend API development, and **
 - Integrated **Kafka** for event streaming and state synchronization.
 - Enhanced **performance** and reduced data load processing times.
 
-🔗 *(Internal project - No public repo for NDA reasons)*
+🔗 *(Internal project)*
 
 ---
 
-#### ☁️ Cloud-Native Billing Microservices (AWS)
-**Tech:** Java, Spring Boot, AWS Lambda, API Gateway, DynamoDB, SNS, SQS, Docker
+☁️ **Cloud-Native Billing Microservices (AWS)**  
 
-Designed a **billing microservice architecture** fully on AWS with event-driven processing.
+**Tech:** Java, Spring Boot, AWS Lambda, API Gateway, DynamoDB, SNS, SQS, Docker  
 
-**Key Highlights:**
-- API Gateway → Lambda → DynamoDB workflow
-- Used **SNS + SQS** for asynchronous event processing
-- Containerized with **Docker**, deployable via GitHub Actions
+Designed and implemented a **fully AWS-based, cloud-native, event-driven billing system** using microservices architecture. The platform supports **scalable and resilient billing workflows**, leveraging **serverless components** for efficiency and high availability.
+
+**Key Highlights:**  
+- **API Gateway → Lambda → DynamoDB** workflow for scalable REST APIs  
+- **SNS + SQS** used for asynchronous event-driven communication  
+- Fully **containerized** and deployable via **Docker + GitHub Actions**  
+- Integrated **frontend UI** built with React + TypeScript → [AWS Billing UI](https://github.com/Ravi-Goli/aws-billing-ui)
+
+🔗 **Repo (Backend):** [AWS Billing Microservices](https://github.com/Ravi-Goli/aws-billing-microservices)
 
 🔗 Repo (Public):  
 `(https://github.com/Ravi-Goli/aws-billing-microservices)` 
@@ -59,18 +63,20 @@ Designed a **billing microservice architecture** fully on AWS with event-driven 
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ravichander-goli&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ravichander-goli&theme=tokyonight" />
-</p>
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ravi-Goli&show_icons=true&theme=tokyonight" alt="Ravi Goli's GitHub stats" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi-Goli&theme=tokyonight" alt="Ravi Goli's GitHub streak stats" /> </p> <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-Goli&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
 
 ---
 
 ### 🤝 Let's Connect
 <a href="https://www.linkedin.com/in/ravichander-reddy-goli/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
 
 ---
 
 ⭐️ *If you like my work, consider giving a star to the repositories!*
+<p align="center">
+  <a href="https://github.com/Ravi-Goli">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub Follow" />
+  </a>
+</p>
