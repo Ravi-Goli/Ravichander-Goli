@@ -59,10 +59,7 @@ Designed a **billing microservice architecture** fully on AWS with event-driven 
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ravichander-goli&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ravichander-goli&theme=tokyonight" />
-</p>
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ravi-Goli&show_icons=true&theme=tokyonight" alt="Ravi Goli's GitHub stats" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi-Goli&theme=tokyonight" alt="Ravi Goli's GitHub streak stats" /> </p> <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-Goli&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
 
 ---
 
