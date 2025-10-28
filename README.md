@@ -65,9 +65,14 @@ Designed a **billing microservice architecture** fully on AWS with event-driven 
 
 ### 🤝 Let's Connect
 <a href="https://www.linkedin.com/in/ravichander-reddy-goli/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
 
 ---
 
 ⭐️ *If you like my work, consider giving a star to the repositories!*
+<p align="center">
+  <a href="https://github.com/Ravi-Goli">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub Follow" />
+  </a>
+</p>
