@@ -42,18 +42,20 @@ Contributed to **modular front-end components**, backend API development, and **
 
 ---
 
-#### ☁️ Cloud-Native Billing Microservices (AWS)
-**Tech:** Java, Spring Boot, AWS Lambda, API Gateway, DynamoDB, SNS, SQS, Docker
+☁️ **Cloud-Native Billing Microservices (AWS)**  
 
-Designed a **billing microservice architecture** fully on AWS with event-driven processing.
+**Tech:** Java, Spring Boot, AWS Lambda, API Gateway, DynamoDB, SNS, SQS, Docker  
 
-**Key Highlights:**
-- API Gateway → Lambda → DynamoDB workflow
-- Used **SNS + SQS** for asynchronous event processing
-- Containerized with **Docker**, deployable via GitHub Actions
+Designed and implemented a **fully AWS-based, cloud-native, event-driven billing system** using microservices architecture. The platform supports **scalable and resilient billing workflows**, leveraging **serverless components** for efficiency and high availability.
 
-🔗 Repo (Public):  
-`[AWS Billing Microservices](https://github.com/Ravi-Goli/aws-billing-microservices)` 
+**Key Highlights:**  
+- **API Gateway → Lambda → DynamoDB** workflow for scalable REST APIs  
+- **SNS + SQS** used for asynchronous event-driven communication  
+- Fully **containerized** and deployable via **Docker + GitHub Actions**  
+- Integrated **frontend UI** built with React + TypeScript → [AWS Billing UI](https://github.com/Ravi-Goli/aws-billing-ui)
+
+🔗 **Repo (Backend):** [AWS Billing Microservices](https://github.com/Ravi-Goli/aws-billing-microservices)
+
 
 ---
 
