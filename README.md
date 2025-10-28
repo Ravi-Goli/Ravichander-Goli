@@ -56,9 +56,6 @@ Designed and implemented a **fully AWS-based, cloud-native, event-driven billing
 
 🔗 **Repo (Backend):** [AWS Billing Microservices](https://github.com/Ravi-Goli/aws-billing-microservices)
 
-🔗 Repo (Public):  
-`(https://github.com/Ravi-Goli/aws-billing-microservices)` 
-
 ---
 
 ### 📈 GitHub Stats
