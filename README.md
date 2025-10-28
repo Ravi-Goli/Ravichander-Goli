@@ -65,8 +65,6 @@ Designed and implemented a **fully AWS-based, cloud-native, event-driven billing
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-Goli&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" height="180px" />
 </p>
 
-
-
 ---
 
 ### 🤝 Let's Connect
