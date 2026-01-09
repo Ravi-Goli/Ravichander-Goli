@@ -59,10 +59,8 @@ Designed and implemented a **fully AWS-based, cloud-native, event-driven billing
 ---
 
 ### 📈 GitHub Stats
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=Ravi-Goli&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=Ravi-Goli&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravi-Goli&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
