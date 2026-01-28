@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravichander Reddy Goli</h1>
-<h3 align="center">Senior Software Developer | Full-Stack & Cloud Engineering | Java | .NET | React | AWS | Azure</h3>
+<h3 align="center">Senior Software Developer | Full-Stack & Cloud Engineering | Java | Node.js | React | AWS | Azure</h3>
 
 ---
 
@@ -27,16 +27,18 @@
 ### 🏗️ Projects
 
 #### 🏦 Dara Platform – Mortgage Servicing Modernization (Sagent)
-**Tech:** React, TypeScript, .NET, Azure, Kafka, Cosmos DB
+**Tech:** React, TypeScript, Java, Spring Boot, Azure, Kafka, Cosmos DB
 
 Developing UI & backend services for **Dara Platform**, a cloud-based mortgage servicing solution.  
 Contributed to **modular front-end components**, backend API development, and **event-based data flow** integration with Kafka.
 
 **Key Highlights:**
-- Built scalable **React components** and shared UI patterns.
-- Implemented **.NET microservices** with Entity Framework & Cosmos DB.
-- Integrated **Kafka** for event streaming and state synchronization.
-- Enhanced **performance** and reduced data load processing times.
+- Built scalable and reusable React components and shared UI patterns.
+- Developed Java Spring Boot microservices for core mortgage servicing workflows.
+- Implemented REST APIs and business logic following microservices best practices.
+- Integrated Kafka for event streaming and state synchronization across services.
+- Worked with Azure Cosmos DB for distributed, high-availability data storage.
+- Improved system performance and reduced data processing latency.
 
 🔗 *(Internal project)*
 
