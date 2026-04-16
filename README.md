@@ -8,7 +8,7 @@
 - Full-stack engineer building **scalable, secure, and cloud-native applications**.
 - Strong in **Java, Python, Microservices, React, Docker, Kubernetes, AWS, and Azure**.
 - Focused on designing **high-performance systems**, modern platform architectures, and reliable developer-friendly services.
-- Currently working on **mortgage servicing platform modernization** at **Sagent**.
+- Currently building scalable engineering solutions for **Apple Ad Platforms** at **Apple**.
 
 ---
 
