@@ -16,7 +16,7 @@
 
 **Languages:** `Java` `Python` `TypeScript` `JavaScript`  
 **Frontend:** `React.js` `Redux` `HTML` `CSS` `Tailwind`  
-**Backend:** `Spring Boot` `.NET Core` `Microservices` `REST APIs`  
+**Backend:** `Spring Boot` `Node.Js` `Microservices` `REST APIs`  
 **Cloud & DevOps:** `AWS` `Azure` `Docker` `Kubernetes` `GitHub Actions` `CI/CD`  
 **Databases:** `PostgreSQL` `MySQL` `MongoDB` `Azure Cosmos DB`  
 **Messaging / Streaming:** `Kafka`  
