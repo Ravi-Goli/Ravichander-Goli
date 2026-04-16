@@ -6,7 +6,7 @@
 ### 🚀 About Me
 
 - Full-stack engineer building **scalable, secure and cloud-native applications**.
-- Strong in **Java, .NET, Microservices, React, Docker, Kubernetes, AWS & Azure**.
+- Strong in **Java, Python, Microservices, React, Docker, Kubernetes, AWS & Azure**.
 - Passionate about designing **high-performance systems** and solving real-world engineering challenges.
 - Currently working on **mortgage servicing platform modernization** at **Sagent**.
 
@@ -14,7 +14,7 @@
 
 ### 🧰 Tech Stack
 
-**Languages:** `Java` `C#` `TypeScript` `JavaScript`  
+**Languages:** `Java` `Python` `TypeScript` `JavaScript`  
 **Frontend:** `React.js` `Redux` `HTML` `CSS` `Tailwind`  
 **Backend:** `Spring Boot` `.NET Core` `Microservices` `REST APIs`  
 **Cloud & DevOps:** `AWS` `Azure` `Docker` `Kubernetes` `GitHub Actions` `CI/CD`  
