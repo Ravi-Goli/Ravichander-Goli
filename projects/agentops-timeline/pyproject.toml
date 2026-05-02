@@ -25,6 +25,9 @@ classifiers = [
 ]
 dependencies = []
 
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
 [project.scripts]
 agentops = "agentops_timeline.cli:main"
 
