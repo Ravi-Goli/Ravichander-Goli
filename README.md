@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Java%20%7C%20Python%20%7C%20React%20%7C%20Cloud-0A66C2?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Building-AI%20Developer%20Workflows-2EA44F?style=for-the-badge" alt="Building AI Developer Workflows" />
+  <img src="https://img.shields.io/badge/Building-AgentOps%20Tools-2EA44F?style=for-the-badge" alt="Building AgentOps Tools" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - Full-stack engineer building scalable, secure, and cloud-native applications.
 - Strong in Java, Python, microservices, React, Docker, Kubernetes, AWS, and Azure.
 - Focused on performance, reliability, clean platform design, and practical automation.
-- Currently exploring AI coding agents, MCP tools, local-first context systems, and developer productivity workflows.
+- Currently exploring AI coding agents, MCP tools, local-first developer workflows, and AgentOps tooling.
 - Building engineering solutions for Apple Ad Platforms at Apple.
 
 ---
@@ -26,13 +26,13 @@
 **Cloud & DevOps:** `AWS` `Azure` `Docker` `Kubernetes` `GitHub Actions` `CI/CD`  
 **Databases:** `PostgreSQL` `MySQL` `MongoDB` `Azure Cosmos DB`  
 **Messaging / Streaming:** `Kafka` `SNS` `SQS`  
-**AI Developer Tools:** `MCP` `context-router` `AI coding agents` `local-first workflows`
+**AI Developer Tools:** `MCP` `context-router` `AI coding agents` `AgentOps` `local-first workflows`
 
 ---
 
 ### Currently Building
 
-- AI-assisted developer workflow examples using local tools and project memory.
+- AgentOps Timeline, a local-first CLI for recording AI-assisted coding sessions.
 - Cloud-native billing and ledger systems with microservices and event-driven architecture.
 - Full-stack portfolio projects with clean README documentation, setup steps, and practical demos.
 
@@ -40,17 +40,17 @@
 
 ### Featured Work
 
-#### AI Dev Workflow Starter Kit
-**Tech:** context-router, MCP, GitHub, local-first developer tooling
+#### AgentOps Timeline
+**Tech:** Python, CLI tooling, Git, AI developer workflows
 
-Created a practical starter kit for AI-assisted coding sessions, including context-router setup, MCP configuration, project memory guidance, and reusable documentation templates.
+Built a local-first CLI that records what happened during an AI-assisted coding session: commands run, git snapshots, notes, decisions, risks, next steps, and PR-ready summaries.
 
 **Highlights:**
-- Verified setup commands for `context-router`.
-- Example MCP server configuration.
-- AI workflow checklist and decision template for project memory.
+- Start named AI coding sessions from the terminal.
+- Capture commands, return codes, output tails, changed files, and diff stats.
+- Export clean Markdown summaries and PR notes for reviewers or handoffs.
 
-**Project:** [AI Dev Workflow Starter Kit](https://github.com/Ravi-Goli/Ravichander-Goli/tree/main/projects/ai-dev-workflow-starter-kit)
+**Project:** [AgentOps Timeline](https://github.com/Ravi-Goli/Ravichander-Goli/tree/main/projects/agentops-timeline)
 
 ---
 
