@@ -32,7 +32,7 @@
 
 ### Currently Building
 
-- AgentOps Timeline, a local-first CLI for recording AI-assisted coding sessions.
+- Agent Trail, a local-first CLI for recording AI-assisted coding sessions.
 - Cloud-native billing and ledger systems with microservices and event-driven architecture.
 - Full-stack portfolio projects with clean README documentation, setup steps, and practical demos.
 
@@ -40,17 +40,17 @@
 
 ### Featured Work
 
-#### AgentOps Timeline
+#### Agent Trail
 **Tech:** Python, CLI tooling, Git, AI developer workflows
 
-Built a local-first CLI that records what happened during an AI-assisted coding session: commands run, git snapshots, notes, decisions, risks, next steps, and PR-ready summaries.
+Built a local-first activity trail for AI-assisted coding sessions: commands run, git snapshots, notes, decisions, risks, next steps, and PR-ready summaries.
 
 **Highlights:**
 - Start named AI coding sessions from the terminal.
 - Capture commands, return codes, output tails, changed files, and diff stats.
 - Export clean Markdown summaries and PR notes for reviewers or handoffs.
 
-**Project:** [AgentOps Timeline](https://github.com/Ravi-Goli/Ravichander-Goli/tree/main/projects/agentops-timeline)
+**Project:** [Agent Trail](https://github.com/Ravi-Goli/agent-trail)
 
 ---
 
