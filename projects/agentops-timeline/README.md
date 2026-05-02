@@ -42,6 +42,13 @@ agentops summary
 agentops export-pr-notes --output PR_NOTES.md
 ```
 
+## Run tests
+
+```bash
+pip install -e ".[dev]"
+pytest -q
+```
+
 ## Example summary
 
 ```md
