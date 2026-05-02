@@ -1,23 +1,24 @@
-<h1 align="center">Hi 👋, I'm Ravichander Reddy Goli</h1>
-<h3 align="center">Senior Software Developer building scalable backend systems, cloud platforms, and full-stack products</h3>
+<h1 align="center">Hi, I'm Ravichander Reddy Goli</h1>
+<h3 align="center">Senior Software Developer building scalable backend systems, cloud platforms, and AI-assisted developer workflows</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Apple-Ad%20Platforms-black?style=for-the-badge&logo=apple" alt="Apple Ad Platforms" />
   <img src="https://img.shields.io/badge/Focus-Java%20%7C%20Python%20%7C%20React%20%7C%20Cloud-0A66C2?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Building-AI%20Developer%20Workflows-2EA44F?style=for-the-badge" alt="Building AI Developer Workflows" />
 </p>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- Full-stack engineer building **scalable, secure, and cloud-native applications**.
-- Strong in **Java, Python, microservices, React, Docker, Kubernetes, AWS, and Azure**.
-- Focused on **performance, reliability, and clean platform design**.
-- Currently building engineering solutions for **Apple Ad Platforms** at **Apple**.
+- Full-stack engineer building scalable, secure, and cloud-native applications.
+- Strong in Java, Python, microservices, React, Docker, Kubernetes, AWS, and Azure.
+- Focused on performance, reliability, clean platform design, and practical automation.
+- Currently exploring AI coding agents, MCP tools, local-first context systems, and developer productivity workflows.
+- Building engineering solutions for Apple Ad Platforms at Apple.
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **Languages:** `Java` `Python` `TypeScript` `JavaScript`  
 **Frontend:** `React.js` `React Native` `Redux` `HTML` `CSS` `Tailwind`  
@@ -25,26 +26,50 @@
 **Cloud & DevOps:** `AWS` `Azure` `Docker` `Kubernetes` `GitHub Actions` `CI/CD`  
 **Databases:** `PostgreSQL` `MySQL` `MongoDB` `Azure Cosmos DB`  
 **Messaging / Streaming:** `Kafka` `SNS` `SQS`
+**AI Developer Tools:** `MCP` `context-router` `AI coding agents` `local-first workflows`
 
 ---
 
-### 🏗️ Featured Work
+### Currently Building
 
-#### 🔥 LedgerForge
+- AI-assisted developer workflow examples using local tools and project memory.
+- Cloud-native billing and ledger systems with microservices and event-driven architecture.
+- Full-stack portfolio projects with clean README documentation, setup steps, and practical demos.
+
+---
+
+### Featured Work
+
+#### LedgerForge Platform
 **Tech:** React Native, Expo, TypeScript, Java, Python
 
-Built **LedgerForge**, a multi-language billing platform starter that combines a **React Native mobile app**, a **Java billing engine**, and a **Python analytics module** in one repository.
+Built LedgerForge, a multi-language billing platform starter that combines a React Native mobile app, a Java billing engine, and a Python analytics module in one repository.
 
 **Highlights:**
 - Branded mobile shell for billing and account workflows.
 - Java billing engine for invoice summaries, exposure analysis, and collection metrics.
 - Python analytics layer for forecasting and collection-risk scoring.
 
-🔗 **Repo:** [LedgerForge Platform](https://github.com/Ravi-Goli/billing-ui)
+**Repo:** [LedgerForge Platform](https://github.com/Ravi-Goli/ledgerforge-platform)
 
 ---
 
-#### 🏦 Dara Platform (Sagent)
+#### Cloud-Native Billing Microservices
+**Tech:** Java, Spring Boot, AWS Lambda, API Gateway, DynamoDB, SNS, SQS, Docker
+
+Designed and implemented an event-driven billing system using microservices and serverless AWS patterns for resilient, scalable workflows.
+
+**Highlights:**
+- API Gateway, Lambda, and DynamoDB-based REST flow.
+- SNS and SQS for asynchronous communication.
+- Dockerized services with GitHub Actions-based delivery.
+
+**Backend Repo:** [AWS Billing Microservices](https://github.com/Ravi-Goli/aws-billing-microservices)  
+**Frontend Repo:** [AWS Billing UI](https://github.com/Ravi-Goli/aws-billing-ui)
+
+---
+
+#### Dara Platform at Sagent
 **Tech:** React, TypeScript, Java, Spring Boot, Azure, Kafka, Cosmos DB
 
 Contributed to UI and backend services for a cloud-based mortgage servicing platform, with work spanning reusable frontend components, backend APIs, and event-driven flows.
@@ -54,26 +79,11 @@ Contributed to UI and backend services for a cloud-based mortgage servicing plat
 - Java Spring Boot microservices for core servicing workflows.
 - Kafka integration and Cosmos DB-backed distributed storage.
 
-🔗 *(Internal project)*
+*Internal project*
 
 ---
 
-#### ☁️ Cloud-Native Billing Microservices
-**Tech:** Java, Spring Boot, AWS Lambda, API Gateway, DynamoDB, SNS, SQS, Docker
-
-Designed and implemented an **event-driven billing system** using microservices and serverless patterns for resilient, scalable workflows.
-
-**Highlights:**
-- API Gateway, Lambda, and DynamoDB-based REST flow.
-- SNS and SQS for asynchronous communication.
-- Dockerized services with GitHub Actions-based delivery.
-
-🔗 **Backend Repo:** [AWS Billing Microservices](https://github.com/Ravi-Goli/aws-billing-microservices)  
-🔗 **Frontend Repo:** [AWS Billing UI](https://github.com/Ravi-Goli/aws-billing-ui)
-
----
-
-### 📈 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravi-Goli&theme=github_dark" alt="GitHub Profile Details" />
 </p>
@@ -84,7 +94,7 @@ Designed and implemented an **event-driven billing system** using microservices 
 
 ---
 
-### 🤝 Connect
+### Connect
 <p>
   <a href="https://www.linkedin.com/in/ravichander-reddy-goli/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
