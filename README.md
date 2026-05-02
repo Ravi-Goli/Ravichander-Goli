@@ -25,7 +25,7 @@
 **Backend:** `Spring Boot` `Node.js` `Microservices` `REST APIs`  
 **Cloud & DevOps:** `AWS` `Azure` `Docker` `Kubernetes` `GitHub Actions` `CI/CD`  
 **Databases:** `PostgreSQL` `MySQL` `MongoDB` `Azure Cosmos DB`  
-**Messaging / Streaming:** `Kafka` `SNS` `SQS`
+**Messaging / Streaming:** `Kafka` `SNS` `SQS`  
 **AI Developer Tools:** `MCP` `context-router` `AI coding agents` `local-first workflows`
 
 ---
@@ -39,6 +39,20 @@
 ---
 
 ### Featured Work
+
+#### AI Dev Workflow Starter Kit
+**Tech:** context-router, MCP, GitHub, local-first developer tooling
+
+Created a practical starter kit for AI-assisted coding sessions, including context-router setup, MCP configuration, project memory guidance, and reusable documentation templates.
+
+**Highlights:**
+- Verified setup commands for `context-router`.
+- Example MCP server configuration.
+- AI workflow checklist and decision template for project memory.
+
+**Project:** [AI Dev Workflow Starter Kit](https://github.com/Ravi-Goli/Ravichander-Goli/tree/main/projects/ai-dev-workflow-starter-kit)
+
+---
 
 #### LedgerForge Platform
 **Tech:** React Native, Expo, TypeScript, Java, Python
