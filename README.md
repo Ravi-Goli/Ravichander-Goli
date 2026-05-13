@@ -99,11 +99,14 @@ Contributed to UI and backend services for a cloud-based mortgage servicing plat
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravi-Goli&theme=github_dark" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravi-Goli&amp;theme=github_dark" alt="GitHub Profile Details" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ravi-Goli&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-Goli&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ravi-Goli&amp;theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ravi-Goli&amp;theme=github_dark" alt="Top Languages by Repository" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravi-Goli&amp;theme=github_dark" alt="Top Languages by Commit" />
 </p>
 
 ---
