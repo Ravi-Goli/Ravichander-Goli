@@ -105,9 +105,6 @@ Contributed to UI and backend services for a cloud-based mortgage servicing plat
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ravi-Goli&amp;theme=github_dark" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ravi-Goli&amp;theme=github_dark" alt="Top Languages by Repository" />
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravi-Goli&amp;theme=github_dark" alt="Top Languages by Commit" />
-</p>
 
 ---
 
